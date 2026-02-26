@@ -10,7 +10,7 @@ dependencies:
   flutter:
     sdk: flutter
     
-  ffmpeg_kit_flutter: 4.5.1
+  ffmpeg_kit_flutter_min: ^6.0.0
   video_player: ^2.2.7
   video_thumbnail: 0.5.3
   path_provider: ^2.0.7
